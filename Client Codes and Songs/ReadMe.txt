@@ -1,0 +1,1 @@
+This folder contains the songs that were played after the detection of the particular emotion. The client code is the code that needs to be run on the host on which you need to play the song... On in other words the host represent the component that receives the emotion via IoT.
